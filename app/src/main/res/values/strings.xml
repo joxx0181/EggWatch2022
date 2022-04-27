@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EggWatch2022</string>
+    <string name="choose_a_egg">Choose an egg</string>
+    <string name="start">start</string>
+    <string name="_00_00">00:00</string>
+</resources>
